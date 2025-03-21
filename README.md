@@ -29,15 +29,5 @@
 - **프론트엔드:** Streamlit, Plotly
 - **데이터 처리:** Python, Pandas, NumPy
 - **데이터 시각화:** Plotly Express, Plotly Graph Objects
-- **데이터 저장:** CSV 파일, 또는 필요 시 SQL 데이터베이스
+- **데이터 저장:** CSV 파일
 - **기타:** Git, GitHub, Python 가상환경 (venv 또는 conda)
-
-## 설치 및 실행 방법
-
-1. **레포지토리 클론 및 가상환경 설정:**
-
-   ```bash
-   git clone https://github.com/yourusername/CO2-emissions-dashboard.git
-   cd CO2-emissions-dashboard
-   python -m venv .venv
-   source .venv/bin/activate  # Windows: .venv\Scripts\activate
